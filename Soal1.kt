@@ -1,4 +1,4 @@
-package Tugas
+package Tugas1
 
 fun main(args: Array<String>){
     val x1a : Int = 2;
